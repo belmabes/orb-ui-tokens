@@ -1,5 +1,5 @@
 {
-  "name": "@orb-ui/design-tokens",
+  "name": "@orb_ui/design-tokens",
   "version": "1.0.0",
   "description": "Design tokens for Orb-UI",
   "main": "dist/tokens.css",
