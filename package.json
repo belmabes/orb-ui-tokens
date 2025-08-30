@@ -1,6 +1,6 @@
 {
   "name": "@orb_ui/design-tokens",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Design tokens for Orb-UI",
   "main": "dist/tokens.css",
   "scripts": {
